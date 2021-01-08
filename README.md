@@ -11,7 +11,7 @@ An audio sample player for the Game Boy and Game Boy Color.
 - Heavier CPU usage (scales with playback rate)
 - Works on all Game Boy and Game Boy Color models (except GBA for now, read "Pitfalls" below)
 
-Feature requests and bug reports can be submitted in the repo's [issues](/ISSOtm/smooth-player/issues/new), I look at them often.
+Feature requests and bug reports can be submitted in the repo's [issues](https://github.com/ISSOtm/smooth-player/issues), I look at them often.
 
 ## Usage
 
