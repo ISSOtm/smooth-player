@@ -169,3 +169,14 @@ StartSample::
     db $40
     db $80
     db $88 ; XOR mask
+
+
+; Variables
+    PUSHS
+SECTION "Smooth-Player variables", HRAM
+
+hSampleXORMask:: db
+hSampleReadPtr:: dw
+hSampleReadBank:: db
+hSampleLastBank:: db
+    POPS
