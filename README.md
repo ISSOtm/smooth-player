@@ -3,6 +3,8 @@
 
 An audio sample player for the Game Boy and Game Boy Color.
 
+Demo available at [smooth-player-demo](https://github.com/ISSOtm/sample-player-demo), which also serves as an example of how to integrate it.
+
 ## Features
 
 - 4-bit spike-less sound samples
